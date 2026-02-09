@@ -5,11 +5,15 @@ Ambitious student passionate about programming, electronics, and telecommunicati
 Currently pursuing a Bachelor's degree in Electronics and Telecommunications at AGH University of Krakow.
 I enjoy learning new technologies and developing practical skills through hands-on projects. Open to new challenges and eager to grow in a professional engineering environment.
 My knowledge involves networking, computer science, automatations and embedded systems. 
+Currently learning:
+- Internet of Things (IoT) 
+- Automations and testing
+- Cloud 
 
 ### Technologies used 
 - Languages: C/C++/Python
 - Devices: Arduino/ESP32,
-- Tools: Git,GitHub, Visual Studio Code
+- Tools: Git,GitHub, Visual Studio Code, Docker, Google Cloud 
 
 
 ### Contact 
